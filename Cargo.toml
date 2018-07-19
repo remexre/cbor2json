@@ -1,0 +1,11 @@
+[package]
+authors = ["Nathan Ringo <remexre@gmail.com>"]
+license = "MIT"
+name = "cbor2json"
+version = "0.1.0"
+
+[dependencies]
+failure = "0.1.1"
+serde_cbor = "0.8.2"
+serde_json = "1.0.24"
+structopt = "0.2.10"
